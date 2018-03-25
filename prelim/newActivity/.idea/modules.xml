@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\wally\Desktop\roxBox\prelim\newActivity\app\app.iml" filepath="C:\Users\wally\Desktop\roxBox\prelim\newActivity\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/newActivity.iml" filepath="$PROJECT_DIR$/newActivity.iml" />
+      <module fileurl="file://C:\Users\wally\Desktop\roxBox\prelim\newActivity\newActivity.iml" filepath="C:\Users\wally\Desktop\roxBox\prelim\newActivity\newActivity.iml" />
     </modules>
   </component>
 </project>
